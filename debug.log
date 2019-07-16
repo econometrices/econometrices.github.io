@@ -7,3 +7,30 @@ server is https://crashreporter.atom.io
 maximum 128 reports/day
 reporter is electron-crash-service
 [11836:1108:0716/163859.828:ERROR:crash_service.cc(295)] could not start dumper
+[11656:9716:0716/164304.331:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\cygwin64\tmp\Atom Crashes" --v=1]
+[11656:9716:0716/164304.355:VERBOSE1:crash_service.cc(142)] window handle is 000904A8
+[11656:9716:0716/164304.355:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[11656:9716:0716/164304.355:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[11656:9716:0716/164304.355:ERROR:crash_service.cc(295)] could not start dumper
+[6056:10464:0716/164446.397:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\cygwin64\tmp\Atom Crashes" --v=1]
+[6056:10464:0716/164446.407:VERBOSE1:crash_service.cc(142)] window handle is 00140580
+[6056:10464:0716/164446.407:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[6056:10464:0716/164446.407:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[6056:10464:0716/164446.407:ERROR:crash_service.cc(295)] could not start dumper
+[10448:11340:0716/164657.956:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\cygwin64\tmp\Atom Crashes" --v=1]
+[10448:11340:0716/164657.970:VERBOSE1:crash_service.cc(142)] window handle is 00370536
+[10448:11340:0716/164657.970:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[10448:11340:0716/164657.970:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[10448:11340:0716/164657.970:ERROR:crash_service.cc(295)] could not start dumper

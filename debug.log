@@ -34,3 +34,25 @@ server is https://crashreporter.atom.io
 maximum 128 reports/day
 reporter is electron-crash-service
 [10448:11340:0716/164657.970:ERROR:crash_service.cc(295)] could not start dumper
+[12284:10108:0717/145918.721:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\cygwin64\tmp\Atom Crashes" --v=1]
+[12284:10108:0717/145918.725:VERBOSE1:crash_service.cc(142)] window handle is 000B04BE
+[12284:10108:0717/145918.725:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[12284:10108:0717/145918.725:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[12284:10108:0717/145918.725:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[12284:2420:0717/145918.725:VERBOSE1:crash_service.cc(317)] client start. pid = 1040
+[12284:2420:0717/145920.820:VERBOSE1:crash_service.cc(317)] client start. pid = 7048
+[5388:6792:0717/145920.852:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\cygwin64\tmp\Atom Crashes" --v=1]
+[5388:6792:0717/145920.857:VERBOSE1:crash_service.cc(142)] window handle is 001305D2
+[5388:6792:0717/145920.857:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[5388:6792:0717/145920.857:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[5388:6792:0717/145920.857:ERROR:crash_service.cc(295)] could not start dumper
+[12284:2420:0717/150410.374:VERBOSE1:crash_service.cc(317)] client start. pid = 2840
+[12284:3000:0717/150410.746:VERBOSE1:crash_service.cc(325)] client end. pid = 2840

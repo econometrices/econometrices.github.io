@@ -104,3 +104,5 @@ reporter is electron-crash-service
 [3700:8056:0726/185449.800:VERBOSE1:crash_service.cc(309)] client start. pid = 12916
 [3700:12472:0726/185451.113:VERBOSE1:crash_service.cc(318)] client end. pid = 1304
 [3700:12472:0726/185451.145:VERBOSE1:crash_service.cc(318)] client end. pid = 12916
+[3700:8056:0726/191453.323:VERBOSE1:crash_service.cc(309)] client start. pid = 8108
+[3700:1924:0726/191453.683:VERBOSE1:crash_service.cc(318)] client end. pid = 8108

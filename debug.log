@@ -180,3 +180,11 @@ reporter is electron-crash-service
 [3460:11964:0728/131213.591:VERBOSE1:crash_service.cc(318)] client end. pid = 11684
 [3460:10908:0728/131231.354:VERBOSE1:crash_service.cc(309)] client start. pid = 7816
 [3460:11964:0728/131232.029:VERBOSE1:crash_service.cc(318)] client end. pid = 7816
+[3460:10908:0728/132154.039:VERBOSE1:crash_service.cc(309)] client start. pid = 11736
+[3460:11964:0728/132154.407:VERBOSE1:crash_service.cc(318)] client end. pid = 11736
+[3460:10908:0728/132423.366:VERBOSE1:crash_service.cc(309)] client start. pid = 6280
+[3460:11964:0728/132423.727:VERBOSE1:crash_service.cc(318)] client end. pid = 6280
+[3460:10908:0728/132546.160:VERBOSE1:crash_service.cc(309)] client start. pid = 760
+[3460:11964:0728/132546.489:VERBOSE1:crash_service.cc(318)] client end. pid = 760
+[3460:10908:0728/132609.179:VERBOSE1:crash_service.cc(309)] client start. pid = 4152
+[3460:11964:0728/132609.562:VERBOSE1:crash_service.cc(318)] client end. pid = 4152

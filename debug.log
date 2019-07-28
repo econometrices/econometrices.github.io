@@ -137,3 +137,7 @@ reporter is electron-crash-service
 [3528:268:0728/124304.096:ERROR:crash_service.cc(286)] could not start dumper
 [7280:5936:0728/124412.302:VERBOSE1:crash_service.cc(309)] client start. pid = 11880
 [7280:3964:0728/124412.750:VERBOSE1:crash_service.cc(318)] client end. pid = 11880
+[7280:5936:0728/124849.904:VERBOSE1:crash_service.cc(309)] client start. pid = 12340
+[7280:9568:0728/124850.271:VERBOSE1:crash_service.cc(318)] client end. pid = 12340
+[7280:5936:0728/125808.236:VERBOSE1:crash_service.cc(309)] client start. pid = 9708
+[7280:3964:0728/125808.573:VERBOSE1:crash_service.cc(318)] client end. pid = 9708

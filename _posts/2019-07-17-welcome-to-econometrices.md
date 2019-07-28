@@ -7,4 +7,4 @@ categories: neu
 
 Herzlich willkommen zu unserem Blog über aktuelle Forschungsthemen im Bereich Gender Economics.
 
- Wir werden auf dieser Seite wissenschaftliche Studien und ihre Implikationen für den Alltag besprechen. Der erste Post kommt bald!
+ Wir werden auf dieser Seite wissenschaftliche Studien und ihre Implikationen für den Alltag besprechen.

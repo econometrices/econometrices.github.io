@@ -23,7 +23,7 @@ url: "https://econometrices.github.io/" # the base hostname & protocol for your 
 #github_username:  jekyll
 #
 # Build settings
-markdown: kramdown
+markdown: kramdownit
 theme: minima
 plugins:
   - jekyll-feed

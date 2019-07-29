@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dann doch lieber Ehefrau – Wie der Heiratsmarkt den Arbeitsmarkt beeinflusst"
-date:   2019-07-24 15:33:15 +0100
+date:   2019-07-29 15:33:15 +0100
 categories: neu
 ---
 

@@ -8,7 +8,7 @@ permalink: /about/
 
 Willkommen zu unserem Blog! In losen Abständen beleuchten wir hier neue Studien, die sich alle auf die eine oder andere Weise mit Faktoren, die die Arbeitsmarktbeteiligung von Frauen beeinflussen, auseinandersetzen.
 
-Wir denken, dass Economics als Wissenschaft für aktuelle Diskussionen zur Gleichberechtigung einen wichtigen Beitrag liefern kann: Die vorgestellten Studien stellen einen messbaren, kausalen Zusammenhang zwischen Ursache und Wirkung her - und gehen damit über die Anekdote hinaus.
+Wir denken, dass Economics als Wissenschaft für aktuelle Diskussionen zur Gleichberechtigung einen wichtigen Beitrag liefern kann: Die vorgestellten Studien stellen einen messbaren, kausalen Zusammenhang zwischen Ursache und Wirkung her. Sie stellen verifizierbare Hypothesen auf und ermöglichen damit eine Diskussion basierend auf harten Fakten - anstelle von Anekdoten.
 
 
 # Zu uns

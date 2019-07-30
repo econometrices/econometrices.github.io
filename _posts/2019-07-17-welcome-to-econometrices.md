@@ -11,4 +11,6 @@ Wir denken, dass Economics als Wissenschaft für aktuelle Diskussionen zur Gleic
 
 Sie stellen verifizierbare Hypothesen auf und ermöglichen damit eine Diskussion basierend auf harten Fakten - anstelle von Anekdoten.
 
+Folge uns auf twitter unter [@econometrices](https://twitter.com/econometrices). 
+
 Wir freuen uns über Feedback unter econometrices[at]gmail.com.

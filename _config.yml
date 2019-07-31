@@ -27,9 +27,14 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 
 # Google Analytics
 google_analytics: UA-144741010-1
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

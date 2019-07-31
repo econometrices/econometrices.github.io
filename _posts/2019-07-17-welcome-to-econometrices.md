@@ -3,7 +3,7 @@ layout: post
 title:  "Willkommen zu unserem Blog!"
 date:   2019-07-16 15:33:15 +0100
 categories: neu
-description: Gender Economics Studien Andrea Hofer Ursina Schaede
+description: econometrices Gender Economics aktuelle Studien Andrea Hofer Ursina Schaede Frauen Arbeitsmarkt
 ---
 
 In losen Abständen beleuchten wir hier neue Studien, die sich alle auf die eine oder andere Weise mit Faktoren, die die Arbeitsmarktbeteiligung von Frauen beeinflussen, auseinandersetzen.

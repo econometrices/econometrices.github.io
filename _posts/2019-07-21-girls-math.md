@@ -2,7 +2,7 @@
 layout: post
 title:  "Mädchen und Mathe -  Wie Vorurteile Leistungen beeinflussen"
 date:   2019-07-21 15:33:15 +0100
-categories: neu
+description: Inwiefern können (kulturell geprägte) Vorurteile über die mathematische Begabung von Mädchen dazu beitragen, dass diese bei Tests in der Schule schlechter abschneiden und daher weniger häufig ein Studium oder eine Ausbildung im technischen Bereich wählen? Diese Frage beantwortet die kürzlich im renommierten Quarterly Journal of Economics veröffentlichte Studie von Michela Carlana.
 ---
 
 

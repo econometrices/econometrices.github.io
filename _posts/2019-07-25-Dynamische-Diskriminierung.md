@@ -2,7 +2,6 @@
 layout: post
 title:  "Auf Kosten der Männer? - Warum mehr Frauen in Führungspositionen nicht das Ende von Diskriminierung bedeuten"
 date:   2019-07-25 15:33:15 +0100
-categories: neu
 ---
 
 ## Die Studie in Kürze

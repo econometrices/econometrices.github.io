@@ -10,7 +10,7 @@ Willkommen zu unserem Blog! In losen Abständen beleuchten wir hier neue Studien
 
 Wir denken, dass Economics als Wissenschaft für aktuelle Diskussionen zur Gleichberechtigung einen wichtigen Beitrag liefern kann: Die vorgestellten Studien stellen einen messbaren, kausalen Zusammenhang zwischen Ursache und Wirkung her. Sie stellen verifizierbare Hypothesen auf und ermöglichen damit eine Diskussion basierend auf harten Fakten - anstelle von Anekdoten.
 
-Folge uns auf twitter unter [@econometrices](https://twitter.com/econometrices). 
+Folge uns auf twitter unter [@econometrices](https://twitter.com/econometrices).
 
 
 # Zu uns

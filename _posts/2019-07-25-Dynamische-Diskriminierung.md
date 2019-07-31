@@ -2,6 +2,7 @@
 layout: post
 title:  "Auf Kosten der Männer? - Warum mehr Frauen in Führungspositionen nicht das Ende von Diskriminierung bedeuten"
 date:   2019-07-25 15:33:15 +0100
+description: Die Autoren J. Aislinn Bohren, Alex Imas und Michael Rosenberg zeigen in dieser Studie, dass mehr Frauen in der Chefetage nicht bedeuten, dass es keine Diskriminierung mehr gibt. 
 ---
 
 ## Die Studie in Kürze

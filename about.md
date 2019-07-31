@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: Auf Econometrices  beleuchten Andrea Hofer und Ursina Schaede neue Studien, die sich alle auf die eine oder andere Weise mit Faktoren, die die Arbeitsmarktbeteiligung von Frauen beeinflussen, auseinandersetzen.
 ---
 
 # Zum Blog

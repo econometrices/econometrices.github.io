@@ -305,3 +305,12 @@ maximum 128 reports/day
 reporter is electron-crash-service
 [10688:13744:0731/110639.548:ERROR:crash_service.cc(286)] could not start dumper
 [9700:10040:0731/110805.072:VERBOSE1:crash_service.cc(318)] client end. pid = 11664
+[9700:8400:0731/133630.498:VERBOSE1:crash_service.cc(318)] client end. pid = 7840
+[9700:8400:0731/133630.561:VERBOSE1:crash_service.cc(318)] client end. pid = 12744
+[9700:8400:0731/133631.577:VERBOSE1:crash_service.cc(339)] zero clients. exiting
+[9700:14172:0731/133631.577:VERBOSE1:crash_service.cc(473)] session ending..
+[9700:14172:0731/133631.577:VERBOSE1:crash_service.cc(478)] clients connected :4
+clients terminated :4
+dumps serviced :0
+dumps reported :0
+[9700:14172:0731/133631.577:VERBOSE1:crash_service_main.cc(100)] Session end. return code is 0

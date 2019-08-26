@@ -314,3 +314,27 @@ clients terminated :4
 dumps serviced :0
 dumps reported :0
 [9700:14172:0731/133631.577:VERBOSE1:crash_service_main.cc(100)] Session end. return code is 0
+[5440:10756:0826/175745.835:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\cygwin64\tmp\Atom Crashes" --v=1]
+[5440:10756:0826/175745.839:VERBOSE1:crash_service.cc(147)] window handle is 001008CC
+[5440:10756:0826/175745.839:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[5440:10756:0826/175745.839:VERBOSE1:crash_service.cc(279)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[5440:10756:0826/175745.840:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[5440:9328:0826/175745.840:VERBOSE1:crash_service.cc(309)] client start. pid = 10332
+[5440:9328:0826/175747.248:VERBOSE1:crash_service.cc(309)] client start. pid = 9512
+[5392:7808:0826/175747.294:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\cygwin64\tmp\Atom Crashes" --v=1]
+[5392:7808:0826/175747.299:VERBOSE1:crash_service.cc(147)] window handle is 0005084E
+[5392:7808:0826/175747.299:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[5392:7808:0826/175747.299:VERBOSE1:crash_service.cc(279)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[5392:7808:0826/175747.300:ERROR:crash_service.cc(286)] could not start dumper
+[5440:9328:0826/181038.916:VERBOSE1:crash_service.cc(309)] client start. pid = 4476
+[5440:9328:0826/181040.992:VERBOSE1:crash_service.cc(309)] client start. pid = 13824
+[5440:8188:0826/181335.136:VERBOSE1:crash_service.cc(318)] client end. pid = 4476
+[5440:8188:0826/181335.186:VERBOSE1:crash_service.cc(318)] client end. pid = 13824

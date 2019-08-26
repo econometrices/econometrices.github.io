@@ -16,6 +16,8 @@ Folge uns auf twitter unter [@econometrices](https://twitter.com/econometrices).
 
 # Zu uns
 
+![](/assets/pic_authors.jpg){:class="img-responsive" :height="700px" width="400px"}
+
 Wir (Andrea Hofer und Ursina Schaede) sind beide Doktorandinnen in Economics an der Universität Zürich, und forschen hauptsächlich zu den Themen, über die wir hier schreiben.
 
 Du kannst uns unter econometrices[at]gmail.com erreichen.

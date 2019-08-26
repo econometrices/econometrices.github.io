@@ -59,9 +59,9 @@ Zusammengenommen zeichnen die Ergebnisse von Heather Sarsons ein eher düsteres 
 
 Ein Silberstreif am Horizont zeigt sich aber auch in dieser Studie: Misserfolge fallen nicht mehr so stark ins Gewicht, wenn ein überweisender Arzt eine lange Überweisungsbeziehung mit der operierenden Chirurgin hat, und generell öfters an Frauen überweist.
 
-# Zum Weiterlesen:
+## Zum Weiterlesen:
 
-## Die komplette Studie findet man unter:
+Die komplette Studie findet man unter:
 
 Sarsons, Heather. 2019. "Interpreting Signals in the Labor Market:
 Evidence from Medical Referrals", Working Paper.

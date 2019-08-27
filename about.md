@@ -13,11 +13,13 @@ Wir denken, dass Economics als Wissenschaft für aktuelle Diskussionen zur Gleic
 
 Folge uns auf twitter unter [@econometrices](https://twitter.com/econometrices).
 
+Oder melde dich für unseren Newsletter an, um einen kurzen Alert für neue Artikel zu bekommen: [Newsletter Anmeldung](https://forms.gle/ice8VM56YJE6PFgZ6)
+
 
 # Zu uns
 
-![](/assets/pic_authors.jpg){:class="img-responsive" :height="700px" width="400px"}
+![](/assets/img/pic_authors.jpg){:class="img-responsive" :height="700px" width="400px"}
 
-Wir (Andrea Hofer und Ursina Schaede) sind beide Doktorandinnen in Economics an der Universität Zürich, und forschen hauptsächlich zu den Themen, über die wir hier schreiben.
+Wir ([Andrea Hofer](https://www.econ.uzh.ch/en/people/graduatestudents/hofer.html) und [Ursina Schaede](https://www.econ.uzh.ch/en/people/graduatestudents/schaede.html)) sind beide Doktorandinnen in Economics an der Universität Zürich, und forschen hauptsächlich zu den Themen, über die wir hier schreiben.
 
 Du kannst uns unter econometrices[at]gmail.com erreichen.

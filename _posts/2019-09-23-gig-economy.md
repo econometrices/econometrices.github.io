@@ -47,7 +47,9 @@ Die beschriebene Studie zeigt, dass auch in Arbeitsmärkten wie der Gig Economy,
 
 Während der erste und der letzte Faktor schwer zu beeinflussen sind, lässt sich der mittlere schon eher gestalten. Wobei sich hier die Frage stellt, wieso Frauen weniger schnell Erfahrung anhäufen. Liegt dies einfach an Präferenzen von Frauen, weniger oft fahren zu wollen, ist es eher schwierig, dies zu ändern. Hängt es aber damit zusammen, dass Frauen immer noch viel häufiger einen Grossteil der Kinderbetreuung und Haushaltsarbeit übernehmen und ihnen aus diesem Grund nicht so viel Zeit bleibt, um schneller Erfahrung zu sammeln, könnte eine gerechtere Aufteilung von Haushaltsaufgaben und Kinderbetreuung dem Problem zumindest ein bisschen entgegenwirken.
 
- ## Zum Weiterlesen
+## Zum Weiterlesen
+
+
 Die komplette Studie findet man unter:
 
 Cook, Cody, Diamond, Rebecca, Hall, Jonathan, List, John A., and Oyer, Paul, (2019): The Gender Earnings Gap in the Gig Economy: Evidence from over a Million Rideshare Drivers.

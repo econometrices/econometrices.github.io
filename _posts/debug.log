@@ -48,3 +48,13 @@ server is https://atom.io/crash_reports
 maximum 128 reports/day
 reporter is electron-crash-service
 [6476:18156:0923/203452.614:ERROR:crash_service.cc(286)] could not start dumper
+[1304:15940:0923/212313.333:VERBOSE1:crash_service.cc(318)] client end. pid = 9812
+[1304:15940:0923/212318.389:VERBOSE1:crash_service.cc(318)] client end. pid = 5608
+[1304:15940:0923/212318.391:VERBOSE1:crash_service.cc(318)] client end. pid = 8316
+[1304:15940:0923/212319.392:VERBOSE1:crash_service.cc(339)] zero clients. exiting
+[1304:7404:0923/212319.392:VERBOSE1:crash_service.cc(473)] session ending..
+[1304:7404:0923/212319.392:VERBOSE1:crash_service.cc(478)] clients connected :4
+clients terminated :4
+dumps serviced :0
+dumps reported :0
+[1304:7404:0923/212319.392:VERBOSE1:crash_service_main.cc(100)] Session end. return code is 0

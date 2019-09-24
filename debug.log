@@ -378,3 +378,23 @@ clients terminated :3
 dumps serviced :0
 dumps reported :0
 [7732:2536:0827/120641.085:VERBOSE1:crash_service_main.cc(100)] Session end. return code is 0
+[464:17344:0924/085606.677:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://atom.io/crash_reports --application-name=Atom "--crashes-directory=C:\cygwin64\tmp\Atom Crashes" --v=1]
+[464:17344:0924/085606.689:VERBOSE1:crash_service.cc(147)] window handle is 00010592
+[464:17344:0924/085606.689:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[464:17344:0924/085606.689:VERBOSE1:crash_service.cc(279)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://atom.io/crash_reports
+maximum 128 reports/day
+reporter is electron-crash-service
+[464:17344:0924/085606.689:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[464:12920:0924/085606.691:VERBOSE1:crash_service.cc(309)] client start. pid = 16536
+[464:12920:0924/085608.454:VERBOSE1:crash_service.cc(309)] client start. pid = 12304
+[14740:8196:0924/085608.564:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://atom.io/crash_reports --application-name=Atom "--crashes-directory=C:\cygwin64\tmp\Atom Crashes" --v=1]
+[14740:8196:0924/085608.624:VERBOSE1:crash_service.cc(147)] window handle is 000105B0
+[14740:8196:0924/085608.624:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[14740:8196:0924/085608.624:VERBOSE1:crash_service.cc(279)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://atom.io/crash_reports
+maximum 128 reports/day
+reporter is electron-crash-service
+[14740:8196:0924/085608.624:ERROR:crash_service.cc(286)] could not start dumper

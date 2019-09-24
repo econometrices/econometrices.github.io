@@ -53,14 +53,15 @@ Während der erste und der letzte Faktor schwer zu beeinflussen sind, lässt sic
 Die komplette Studie findet man unter:
 
 Cook, Cody, Diamond, Rebecca, Hall, Jonathan, List, John A., and Oyer, Paul, (2019): The Gender Earnings Gap in the Gig Economy: Evidence from over a Million Rideshare Drivers.
-https://web.stanford.edu/~diamondr/UberPayGap.pdf
+[https://web.stanford.edu/~diamondr/UberPayGap.pdf](https://web.stanford.edu/~diamondr/UberPayGap.pdf)
 
 Weitere erwähnte Studien im Artikel:
 
 Goldin, Claudia, Katz, Lawrence F, (2016): A Most Egalitarian Profession: Pharmacy and the Evolution of a Family-Friendly Occupation, Journal of Labor Economics, Vol. 34, no. 3
-https://scholar.harvard.edu/files/goldin/files/pharm_cg.pdf
+[https://scholar.harvard.edu/files/goldin/files/pharm_cg.pdf](https://scholar.harvard.edu/files/goldin/files/pharm_cg.pdf)
 
 Bertrand, Marianne, Goldin, Claudia and Katz, Lawrence F. (2010): Dynamics of the Gender Gap for Young Professionals in the Financial and Corporate Sectors, American Economic Journal: Applied Economics: 228–255
-https://scholar.harvard.edu/files/goldin/files/dynamics_of_the_gender_gap_for_young_professionals_in_the_financial_and_corporate_sectors.pdf
+[https://scholar.harvard.edu/files/goldin/files/dynamics_of_the_gender_gap_for_young_professionals_in_the_financial_and_corporate_sectors.pdf](https://scholar.harvard.edu/files/goldin/files/dynamics_of_the_gender_gap_for_young_professionals_in_the_financial_and_corporate_sectors.pdf)
 
-Blau, Francine D., Kahn, Lawrence M., (2017): The Gender Wage Gap: Extent, Trends, and Explanations, Journal of Economic Literature 2017, 55(3), 789–865 https://ideas.repec.org/p/iza/izadps/dp9656.html
+Blau, Francine D., Kahn, Lawrence M., (2017): The Gender Wage Gap: Extent, Trends, and Explanations, Journal of Economic Literature 2017, 55(3), 789–865
+[https://ideas.repec.org/p/iza/izadps/dp9656.html](https://ideas.repec.org/p/iza/izadps/dp9656.html)

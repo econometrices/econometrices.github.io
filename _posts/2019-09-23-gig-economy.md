@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Warum trotz gleichem Lohn für gleiche Arbeit Frauen in der Gig Economy weniger verdienen"
-date:   2019-07-16 15:33:15 +0100
+date:   2019-09-23 15:33:15 +0100
 description: Eine häufige Forderung der Frauenbewegung ist die Forderung nach gleichem Lohn für gleiche Arbeit. Was zuerst einmal sehr einfach und intuitiv klingt, ist in der Praxis nicht immer so einfach umzusetzen. Wie genau definiert man gleiche Arbeit? Berücksichtig man dabei Ausbildung, Erfahrung, etc und wenn ja, wie genau? In einer neuen Studie von Cody Cook, Rebecca Diamond, Jonathan Hall, John List und Paul Oyer, die sich die Gig Economy am Beispiel vom Taxi-Fahrdienst Uber genauer anschaut, zeigen die Forscher, dass auch in der Gig Economy keine Lohngleichheit gilt. Bei der Analyse von über einer Million Taxifahrten in den USA, die über Uber abgewickelt wurden, finden sie, dass weibliche Uber Fahrer im Schnitt pro gefahrener Stunde 7 % weniger verdienen als männliche Fahrer. Dies obwohl der Lohn nicht verhandelt wird, unabhängig ist von Erfahrung und Anzahl gearbeiteter Stunden, und Taxi Kunden nachweisbar nicht männliche Fahrer bevorzugen.
 ---
 

@@ -18,7 +18,7 @@ Zusätzlich überweisen Ärzte nach einer schlecht verlaufenen OP von einer Chir
 
 ## Der Aufbau der Studie
 
-Wie kann Heather Sarsons in ihrer Studie weibliche mit männlichen Chirurgen vergleichen, obwohl Frauen weniger häufig in bestimmten Spezialgebieten tätig sind, durchschnittlich weniger Berufserfahrung aufweisen, und weniger risikoärmere Patienten operieren? Wenn man nur die Rolle, die das Geschlecht des Operierenden spielt, analysieren möchte, würde man als Wissenschaftler idealerweise denselben Patienten von genau demselben Chirurgen operieren lassen, und nur das Geschlecht des Operierenden ändern. Dies ist in der Realität natürlich unmöglich.
+Wie kann Heather Sarsons in ihrer Studie weibliche mit männlichen Chirurgen vergleichen, obwohl Frauen weniger häufig in bestimmten Spezialgebieten tätig sind, durchschnittlich weniger Berufserfahrung aufweisen, und risikoärmere Patienten operieren? Wenn man nur die Rolle, die das Geschlecht des Operierenden spielt, analysieren möchte, würde man als Wissenschaftler idealerweise denselben Patienten von genau demselben Chirurgen operieren lassen, und nur das Geschlecht des Operierenden ändern. Dies ist in der Realität natürlich unmöglich.
 
 Sarsons wendet daher ein sogenanntes «Matching» Verfahren an, mit dem sie für jede weibliche Chirurgin in ihrer Stichprobe einen männlichen Chirurgen findet, der genau die gleichen Charakteristiken aufweist: Das heisst im gleichen Spezialgebiet tätig ist, den gleichen Erfahrungsschatz hat und die gleiche Operation an einem Patienten des gleichen Geschlechts mit einer gleich hohen Sterbewahrscheinlichkeit durchführt.
 ## Was passiert nach einem überraschend schlechten OP Ausgang?

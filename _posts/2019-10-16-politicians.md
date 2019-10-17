@@ -2,13 +2,13 @@
 layout: post
 title:  "Mehr Frauen, weniger Vorurteile? Das Beispiel einer Quote für Lokalpolitikerinnen"
 date:   2019-10-16 15:33:15 +0100
-description: Inwiefern ein niedriger Frauenanteil in der Politik mit Favorisierung von männlichen Kandidaten sowohl von Seiten der Wählern wie auch der Parteien erklärbar ist, erforschen Lori Beaman, Raghabendra Chattopadhyay, Esther Duflo, Rohini Pande und Petia Topalova. Kontext der Studie ist zwar nicht die Schweiz, sondern der indische Bundesstaat West Bengal, dennoch sind die allgemeinen Schlussfolgerungen möglicherweise auch für andere Nationen relevant.
+description: Beaman,Chattopadhyay, Duflo, Pande und Topalova zeigen, dass in Gemeinden, die eine Präsidentin per Quote verordnet bekamen, mehr Frauen in den Gemeinderat gewählt werden - selbst wenn die Quote nicht mehr angewendet wird.
 
 ---
 
 ## Die Studie in Kürze
 
-Derzeit beträgt der Frauenanteil im Schweizer Parlament 31.7%, und wird möglicherweise bald höher ausfallen. Gemessen am Anteil in der Bevölkerung ist der Frauenanteil in der Schweizer Politik somit eher niedrig.
+Derzeit beträgt der Frauenanteil im Schweizer Parlament 31.7%, und wird möglicherweise bald höher ausfallen. Gemessen am Anteil in der Bevölkerung ist der Frauenanteil in der Schweizer Politik eher niedrig.
 
 Inwiefern ein niedriger Frauenanteil in der Politik mit Favorisierung von männlichen Kandidaten sowohl von Seiten der Wählern wie auch der Parteien erklärbar ist, erforschen Lori Beaman, Raghabendra Chattopadhyay, Esther Duflo, Rohini Pande und Petia Topalova. Kontext der Studie ist zwar nicht die Schweiz, sondern der indische Bundesstaat West Bengal - dennoch sind die allgemeinen Schlussfolgerungen möglicherweise auch für andere Nationen relevant.
 

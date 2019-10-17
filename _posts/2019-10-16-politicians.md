@@ -2,8 +2,7 @@
 layout: post
 title:  "Mehr Frauen, weniger Vorurteile? Das Beispiel einer Quote für Lokalpolitikerinnen"
 date:   2019-10-16 15:33:15 +0100
-description: Beaman,Chattopadhyay, Duflo, Pande und Topalova zeigen, dass in Gemeinden, die eine Präsidentin per Quote verordnet bekamen, mehr Frauen in den Gemeinderat gewählt werden - selbst wenn die Quote nicht mehr angewendet wird.
-
+description: Die Autoren zeigen, dass in Gemeinden, die eine Präsidentin per Quote verordnet bekamen, mehr Frauen in den Gemeinderat gewählt werden - selbst wenn die Quote nicht mehr angewendet wird.
 ---
 
 ## Die Studie in Kürze

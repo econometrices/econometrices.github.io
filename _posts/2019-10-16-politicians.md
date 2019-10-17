@@ -12,28 +12,31 @@ Derzeit beträgt der Frauenanteil im Schweizer Parlament 31.7%, und wird möglic
 
 Inwiefern ein niedriger Frauenanteil in der Politik mit Favorisierung von männlichen Kandidaten sowohl von Seiten der Wählern wie auch der Parteien erklärbar ist, erforschen Lori Beaman, Raghabendra Chattopadhyay, Esther Duflo, Rohini Pande und Petia Topalova. Kontext der Studie ist zwar nicht die Schweiz, sondern der indische Bundesstaat West Bengal - dennoch sind die allgemeinen Schlussfolgerungen möglicherweise auch für andere Nationen relevant.
 
-Die Forscher beleuchten im Paper „Powerful Women: Does exposure reduce bias?“, wie sich eine randomisierte Quotenregelung für Gemeindepräsidentinnen über zwei Legislaturperioden hinweg auf verschiedene Faktoren auswirkt. Hierzu wurden Gemeinden des Staates in eine von drei Gruppen eingeteilt: Ein Drittel der Gemeinden in West Bengal bekam für zwei Legislaturperioden eine „Präsidentinnen-Quote“ verordnet, ein weiteres Drittel hatte eine Quote während eines Legislaturzirkels, und ein weiteres Drittel der Gemeinden hatte über den gesamten Zeitraum keine „Präsidentinnen-Quote“.
+Die Forscher beleuchten im Paper „Powerful Women: Does exposure reduce bias?“, wie sich eine randomisierte Quotenregelung für Gemeindepräsidentinnen über zwei Legislaturperioden hinweg auf verschiedene Faktoren auswirkt.
+
+Hierzu wurden Gemeinden des Staates in eine von drei Gruppen eingeteilt: Ein Drittel der Gemeinden in West Bengal bekam für zwei Legislaturperioden eine „Präsidentinnen-Quote“ verordnet, ein Drittel hatte eine Quote nur während eines Legislaturzirkels, und ein weiteres Drittel der Gemeinden hatte über den gesamten Zeitraum keine „Präsidentinnen-Quote“.
 
 Im politischen Kontext zeigt sich, dass in Gemeinden, die eine Präsidentin per Quote verordnet bekamen, mehr Frauen in den Gemeinderat gewählt werden, selbst wenn die Quote nicht mehr angewendet wird.  Dieser Effekt ist aber nur nach zwei Legislaturperioden in Frauenhand messbar – für Gemeinden mit Quotenfrau in nur einer Legislaturperiode gilt dies nicht.
 
-Um besser zu verstehen, warum Politikerinnen in Gemeinden mit vorheriger Quoten-Präsidentin besser abschneiden, stützen sich die Autoren der Studie auf Daten einer Umfrage unter Dorfbewohnern. Sowohl männliche wie auch weibliche Wähler bevorzugen generell männliche Gemeindevorsteher, unabhängig davon ob sie in ihrer eigenen Gemeinde eine Quoten-Präsidentin hatten oder nicht. In Gemeinden mit Quote beurteilen Wähler in einem Gedankenexperiment Politikerinnen jedoch gleich fähig und schätzen sie als effektiver ein als männliche Politiker. Während die Quote somit nicht die generellen Präferenzen der Wähler für männliche Präsidenten umgekrempelt hat, hilft sie doch dabei, langsam tiefgreifende Vorurteile gegenüber Frauen in der Politik zu ändern.
+Um besser zu verstehen, warum Politikerinnen in Gemeinden mit vorheriger Quoten-Präsidentin besser abschneiden, stützen sich die Autoren der Studie auf Daten einer Umfrage unter Dorfbewohnern. Sowohl männliche wie auch weibliche Wähler bevorzugen generell männliche Gemeindevorsteher, unabhängig davon ob sie in ihrer eigenen Gemeinde eine Quoten-Präsidentin hatten oder nicht.
+
+In Gemeinden mit Quote beurteilen Wähler Politikerinnen jedoch als gleich kompetent wie männliche Politiker. Während die Quote somit nicht die generellen Präferenzen der Wähler für männliche Präsidenten umgekrempelt hat, hilft sie doch dabei, langsam tiefgreifende Vorurteile gegenüber Frauen in der Politik zu ändern.
 
 ## Die Quote für weibliche Politiker in West Bengal
 
 Im indischen Bundesstaat West Bengal werden Gemeinderäte von den Wählern einer Gemeinde gewählt. Im Zeitraum, in dem die Studie stattfand, waren ein Drittel der Gemeinderatssitze für Frauen reserviert, d.h. nur Frauen durften für einen solchen Sitz kandidieren und gewählt werden. Jeder Gemeinderat wählt aus seinen Mitgliedern zu Beginn der Legislatur einen Gemeindepräsidenten.
 
-Der Gemeindepräsident hat im Vergleich zu den anderen Ratsmitgliedern deutlich mehr Macht und Aufgaben: Sie oder er bekleiden als einzige ein Vollzeit Amt und sind für die Finanzen und die Priorisierung von Ausgaben für unterschiedliche Bereiche zuständig.
-Die Studie beleuchtet eine Frauenquote für das Amt des Gemeindepräsidenten: Während der lokalen Legislaturperioden in 1998 und 2003 wurden Gemeinden zufällig in eine von drei Kategorien eingeteilt: für ein Drittel der Gemeinden gab es keine Vorschrift für das Präsidentenamt, für das zweite Drittel wurde eine weibliche Präsidentin für eine Legislaturperiode (entweder 1998 oder 2003) vorgeschrieben, und für das letzte Drittel der Gemeinden musste eine Frau als Präsidentin in beiden Legislaturperioden (1998 und 2003) gewählt werden.
+Der Gemeindepräsident hat im Vergleich zu den anderen Ratsmitgliedern deutlich mehr Macht und Aufgaben: Sie oder er bekleiden als einzige ein Vollzeitamt und sind für die Finanzen und die Priorisierung von Ausgaben für unterschiedliche Bereiche zuständig.
+
+Die Studie beleuchtet eine Frauenquote für das Amt des Gemeindepräsidenten: Während der lokalen Legislaturperioden in 1998 und 2003 wurden Gemeinden zufällig in eine von drei Kategorien eingeteilt: für ein Drittel der Gemeinden gab es keine Vorschrift für das Präsidentenamt, für das zweite Drittel wurde eine weibliche Präsidentin für eine Legislaturperiode (entweder 1998 oder 2003) vorgeschrieben, und für das letzte Drittel der Gemeinden musste eine Frau als Präsidentin in beiden Legislaturperioden (1998 und 2003) gewählt werden. In all diesen Gemeinden wurde das Präsidentenamt aus den Reihen der gewählten Gemeinderatsmitglieder besetzt.
 
 Weil die Gemeinden in eine dieser drei Kategorien per Zufallsprinzip eingeteilt wurden, und sich somit im Schnitt sehr ähnlich sind, können die Forscher den kausalen Effekt der Präsidentinnen-Quote messen.
 
 ## Haben weibliche Kandidaten bessere Chancen, nachdem eine Präsidentin im Amt war?
 
-Nachdem die Präsidentinnen-Quote bei der Wahl in 2008 nicht mehr in Kraft war, haben Frauen in Gemeinden die zuvor eine Quoten-Präsidentin hatten tatsächlich bessere Chancen: Mehr Frauen kandidieren als Gemeinderäte und werden auch gewählt, dies umso mehr wenn zwei Frauen hintereinander Präsidentin waren.
+Nachdem die Präsidentinnen-Quote bei der Wahl in 2008 nicht mehr in Kraft war, haben Frauen in Gemeinden, die zuvor eine Quoten-Präsidentin hatten, tatsächlich bessere Chancen: Mehr Frauen kandidieren als Gemeinderäte und werden auch gewählt, dies umso mehr wenn zwei Frauen hintereinander Präsidentin waren.
 
-Unter den Gemeinden, die nie eine Frauenquote hatten, haben knapp 10% in 2008 eine weibliche Präsidentin. Dies ist deutlich höher in den Gemeinden mit zwei Quoten-Legislaturperioden zuvor: In 17% dieser Gemeinden werden in 2008 Frauen ins Präsidentenamt gewählt. Interessanterweise haben Gemeinden, die nur während einer Periode eine Quoten-Präsidentin hatten, ähnliche Ergebnisse wie Gemeinden, die gar nie eine Quote hatten.
-
-Bei der Wahl weiblicher Gemeinderäte sieht dies ähnlich aus: Keinen Unterschied zwischen Gemeinden ohne Quote und Gemeinden mit zuvor einer Präsidentin – in Gemeinden mit zwei Zyklen weiblicher Leader stellen sich im Vergleich deutlich mehr Frauen zur Wahl, und die Anzahl gewählter Frauen ist doppelt so hoch.
+Auch für das Präsidentenamt ergeben sich Unterschiede: Unter den Gemeinden, die nie eine Frauenquote hatten, haben knapp 10% in 2008 eine weibliche Präsidentin. Dies ist deutlich höher in den Gemeinden mit zwei Quoten-Legislaturperioden zuvor: In 17% dieser Gemeinden werden in 2008 Frauen ins Präsidentenamt gewählt. Interessanterweise haben Gemeinden, die nur während einer Periode eine Quoten-Präsidentin hatten, ähnliche Ergebnisse wie Gemeinden, die gar nie eine Quote hatten.
 
 Zusammengefasst scheint die Quote Wirkung zu zeigen, mehr Frauen in die Politik zu bringen - dies jedoch nur wenn Frauen zuvor genügend lange im Amt waren.  Aber warum ist das so?
 
@@ -56,7 +59,7 @@ Obwohl die Rede, die vorgespielt wird, immer gleich lautet (nur die Stimme ände
 
 ## Was sagen Männer und Frauen, wenn man sie direkt nach ihrer Meinung fragt?
 
-Unter anderem fragen die Forscher die Wähler auch direkt danach, ob sie generell eher weibliche oder männliche Politiker und Gemeindepräsidenten bevorzugen. Sowohl Frauen als auch Männer sagen, dass sie eine starke Präferenz für männliche Politiker zu haben.  Interessanterweise ist diese Präferenz unter Männern sogar noch stärker, wenn in der Gemeinde eine Frau das Präsidentenamt inne hat oder hatte.
+Unter anderem fragen die Forscher die Wähler auch direkt danach, ob sie generell eher weibliche oder männliche Politiker und Gemeindepräsidenten bevorzugen. Sowohl Frauen als auch Männer sagen offen, dass sie eine starke Präferenz für männliche Politiker haben. Interessanterweise ist diese Präferenz unter Männern sogar noch stärker, wenn in der Gemeinde eine Frau das Präsidentenamt inne hat oder hatte.
 
 Die Autoren vermuten, dass hinter diesem Resultat eine Art „backlash effect“ steckt: Männer, die in Quoten-Gemeinden wohnen, wollen ihren Unmut über diese Regelung äussern. Dies obwohl sie die Politikerin in der Rede zuvor positiver beurteilen, und weibliche Politikerinnen nach der Quote bessere Chancen haben. Wahrscheinlich besteht hier eine gewisse Dissonanz zwischen eigener Meinung im Stillen, und gesellschaftlichen Gender-Normen, die nach aussen vertreten werden.
 

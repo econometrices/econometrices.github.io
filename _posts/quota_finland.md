@@ -2,7 +2,7 @@
 
 ---
 layout: post
-title: "Quotenmänner -- wieso eine Quote für männliche Primarlehrer in Finnland positive Effekte auf die Schüler hat"
+title: "Quotenmänner - wieso eine Quote für männliche Primarlehrer in Finnland positive Effekte auf die Schüler hat"
 date: 2022-01-15 15:33:00 +0100
 descritpion: Quoten sind sowohl in der Politik wie in der Wirtschaft seit einigen Jahren ein heisses Thema: während die Befürworter:innen argumentieren, dass Quoten nötig sind, um Diskriminierung bei der Auswahl von Kandidat:innen entgegenzuwirken und so Gleichstellung zu erreichen, weisen die Gegner:innen darauf hin, dass Quoten Unternehmen oder andere Institutionen unter Umständen zwingen weniger qualifizierte Kandidat:innen einzustellen nur um eine Quote zu erfüllen. Letzteres würde dann insgesamt zu einem schlechteren Ergebnis führen, z.B. zu tieferer Produktivität. Ursina Schaede und Ville Mankki zeigen jedoch anhand einer Männerquote für finnische Primarlehrer, das dies mitnichten der Fall ist: Primarschüler:innen die von Quotenlehrkräften unterrichtet wurden schneiden später besser ab. Sie sind sowohl mit 4% höhere Wahrscheinlichketi arbeitstätig und haben eine höhere Ausbildung abgeschlossen. Dies liegt vor allem daran, dass sie bei der Auswahl von Beruf- und Studienfächern eine geeignetere Auswahl treffen.
 ---
@@ -46,7 +46,7 @@ Zusammenfassend zeigt diese Studie also auf, dass eine Quote sogar produktivitä
 
 Die komplette Studie findet man unter:
 
-Schaede, Ursina, Mankki, Ville, (2022): Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota.
+Schaede, Ursina and Mankki, Ville, (2022): Quota vs. Quality? Long-Term Gains from an Unusual Gender Quota.
 [https://ursinaschaede.github.io/files/JMP_Schaede.pdf](https://ursinaschaede.github.io/files/JMP_Schaede.pdf)
 
 

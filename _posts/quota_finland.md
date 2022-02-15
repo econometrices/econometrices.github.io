@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: "Quotenmänner - wieso eine Quote für männliche Primarlehrer in Finnland positive Effekte auf die Schüler hat"
@@ -50,5 +48,5 @@ Schaede, Ursina and Mankki, Ville, (2022): Quota vs. Quality? Long-Term Gains fr
 [https://ursinaschaede.github.io/files/JMP_Schaede.pdf](https://ursinaschaede.github.io/files/JMP_Schaede.pdf)
 
 
-[^1]: der Anteil war nur rund 35% und nicht 40% wie die Quote, da nicht alle Studenten, die zum Primarschullehrgang zugelassen werden diesen auch abschliessen
+[^1]: Der Anteil war nur rund 35% und nicht 40% wie die Quote, da nicht alle Studenten, die zum Primarschullehrgang zugelassen werden diesen auch abschliessen
 [^2]: In Finnland werden Primarlehrkräfte von der Gemeinde angestellt.

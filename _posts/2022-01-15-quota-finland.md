@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quotenmänner - wieso eine Quote für männliche Primarlehrer in Finnland positive Effekte auf die Schüler hat"
+title: "Quotenmänner - wieso eine Quote für männliche Primarlehrer in Finnland positive Effekte auf Schüler:innen hat"
 date: 2022-01-15 15:33:00 +0100
 description: Quoten sind ein heisses Thema - während Befürworter der Meinung sind, dass Quoten nötig sind um Gleichstellung zu erreichen, argumentieren Gegner, dass Quoten Unternehmen dazu zwingen könnten weniger qualifizierte Kandidaten einzustellen, was zu Produktivitätsverlusten führen würde. Ursina Schaede und Ville Mankki zeigen in einem neuen Papier anhand einer Männerquote für finnische Primarlehrer, dass eine Quote sogar produktivitätsfördernd sein kann.
 ---
